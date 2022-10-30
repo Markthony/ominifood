@@ -1,4 +1,4 @@
-# Omnifood
+# Omnifood Project
 
 ## About Omnifood
 
